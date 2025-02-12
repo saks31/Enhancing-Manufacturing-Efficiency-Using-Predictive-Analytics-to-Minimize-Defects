@@ -1,0 +1,11 @@
+Best Parameters: {'max_depth': 20, 'min_samples_split': 2, 'n_estimators': 200}
+Accuracy: 0.9522
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.91      0.77      0.84       102
+           1       0.96      0.99      0.97       546
+
+    accuracy                           0.95       648
+   macro avg       0.93      0.88      0.90       648
+weighted avg       0.95      0.95      0.95       648
