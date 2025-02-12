@@ -26,26 +26,6 @@ Production Volume, Cost, Supplier Quality, Downtime Percentage, Worker Productiv
 
 The target variable: DefectStatus (0 = No Defect, 1 = Defective).
 
-Installation
-
-To run this project, install the required dependencies:
-
-pip install -r requirements.txt
-
-Usage
-
-Clone this repository:
-
-git clone https://github.com/yourusername/manufacturing-defect-prediction.git
-cd manufacturing-defect-prediction
-
-Run the script:
-
-python main.py
-
-View the model's performance through the classification report and confusion matrix.
-
-Model Evaluation
 
 Best Parameters:
 
