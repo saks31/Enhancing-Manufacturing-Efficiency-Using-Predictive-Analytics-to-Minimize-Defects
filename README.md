@@ -30,7 +30,7 @@ This project leverages machine learning techniques to predict and reduce manufac
 
 ## Main Components
 
-- Data Processing & Feature Selection:
+### Data Processing & Feature Selection:
 
 - Handles missing values and performs data cleaning.
 
